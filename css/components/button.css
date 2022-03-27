@@ -1,0 +1,18 @@
+.btn-primary {
+  background: rgb(226, 226, 226);
+  color: rgb(139, 139, 139);
+  padding: 10px 25px;
+  border-radius: 6px;
+  box-shadow: transparent;
+  transition: background 0.3s ease;
+  margin-top: 20px;
+  }
+
+
+  .btn-primary:hover {
+    background: rgb(116, 116, 116);
+    color: white;
+    border-radius: 15px;
+    transition: color 0.8s ease;
+    transition: border-radius 0.5s ease;
+  }

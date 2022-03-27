@@ -1,0 +1,27 @@
+.banner {
+  background-image:
+  linear-gradient(to left, rgba(17, 17, 17, 0.3), rgba(0, 0, 0, 0.5)),
+  url(../../images/background.png);
+  background-size: cover;
+  height: 50px;
+  background-position: center;
+  padding: 200px 0;
+  display: flex;
+  align-items: center;
+}
+
+.banner h1 {
+  color: aliceblue;
+  text-shadow: 1px 1px 3px #363636;
+  border-left: 32px;
+}
+
+.banner p {
+  color: white;
+  text-shadow: 1px 1px 3px #363636;
+  border-left: 32px;
+}
+
+.banner-container {
+  padding: 32px;
+}
